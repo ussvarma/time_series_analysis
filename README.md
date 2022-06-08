@@ -6,7 +6,7 @@ eg: arima,sarima,lstm,gru on univariate and multivariate datasets.
 
 Here, univariate dataset of airpassengers is used to build arima,sarima,Exponential smoothening. 
 
-Multivariate dataset is used for building lstm and gru deep learning models.Perdictions are made on test dataset
+Multivariate Stock price  dataset is used for building lstm and gru deep learning models.Perdictions are made on test dataset
 
 
 ## Run Locally
